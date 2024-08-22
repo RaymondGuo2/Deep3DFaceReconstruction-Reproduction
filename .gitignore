@@ -1,0 +1,15 @@
+*/.DS_Store
+.vscode
+.idea
+*cache*
+/checkpoints/*
+/datasets/*
+/insightface/*
+/nvdiffrast/*
+/test_images/*
+/models/arcface_torch/*
+/BFM/Exp_Pca.bin
+/BFM/01_MorphableModel.mat
+/BFM/BFM_model_front.mat
+/debug_data
+/debug*

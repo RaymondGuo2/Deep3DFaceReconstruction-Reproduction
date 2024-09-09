@@ -1,3 +1,6 @@
+# This code has been directly taken from the Deep 3D Face Reconstruction (Deng et al. (2019))code repository, which can be found here: https://github.com/sicxu/Deep3DFaceRecon_pytorch
+
+
 """This module implements an abstract base class (ABC) 'BaseDataset' for datasets.
 
 It also includes common transformation functions (e.g., get_transform, __scale_width), which can be later used in subclasses.
